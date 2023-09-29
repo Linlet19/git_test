@@ -1,0 +1,15 @@
+
+body{
+    background-color: grey;
+}
+
+p{
+    color: blueviolet;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: chartreuse;
+    font-size: 36px;
+}
